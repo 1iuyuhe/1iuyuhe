@@ -1,2 +1,3 @@
-| <a href="https://github.com/1iuyuhe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1iuyuhe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="1iuyuhe's github stats" /></a> | <a href="https://github.com/1iuyuhe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1iuyuhe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1iuyuhe&theme=github)](https://github.com/1iuyuhe)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1iuyuhe&theme=github)](https://github.com/1iuyuhe)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1iuyuhe&theme=github)](https://github.com/1iuyuhe)
