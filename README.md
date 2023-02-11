@@ -1,5 +1,5 @@
 <p>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1iuyuhe&theme=2077" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1iuyuhe&theme=github" />
 </p>
 
 ## Hi, I'm liuyuhe 👋
